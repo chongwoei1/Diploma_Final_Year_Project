@@ -1,0 +1,17 @@
+#left h1
+{
+	
+	color:yellow;
+	margin-left:1000px;
+	cursor:pointer;
+
+}
+#right p
+{
+	border:2px solid blue;
+	
+}
+#right_down p
+a:hover{color:green; font-style:italic;cursor:pointer}
+
+	

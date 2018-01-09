@@ -1,0 +1,117 @@
+     
+ Body
+{  
+   font-family: Verdana;
+   font-size: 1em;
+
+}
+
+#page-wrapper
+{
+  width:1000px;
+  padding:10px;
+  border-radius:10px;
+  border-style:solid;
+  border-width:2px;
+  overflow:auto;
+ }
+ #top-navi
+ { 
+   border: 2px solid red;
+   overflow:auto;
+   background-color:black;
+   
+ }
+ #top-navi ul
+ {
+    font-size:0.75em;
+	list-style-type:none;
+	margin:0 auto;
+	padding: 0;
+ }
+ #top-navi a
+ { 
+ font-weight:bold;
+ text-decoration:none;
+ float:left;
+ color:white;
+padding:15px; 
+ }
+ #top-navi a:hover
+ { 
+   background-color: yellow ;
+   color:white;
+ }
+ #page-banner
+ {
+   height:120px;
+   background-image:url(banner1.jpg);
+ }
+ #left
+ {
+  width:200px;
+  float:left;
+  background-color:#66BBBB;
+  font-size:20px;
+ }
+ #left ul
+ { 
+ font-size:0.75em;
+  text-align:center;
+ list-style-type:none; 
+padding:0px; 
+  }
+  #left a
+  {
+   color:white;
+  
+  }
+  #left a:hover
+  {
+   text-decoration:none;
+   font-style:italic;
+   color:yellow;  
+  }
+  #right
+  {
+  width:620px;
+  float:right;
+  padding:5px;
+  margin-right:400px;
+  cursor:default;
+  }
+  #page-footer
+  {
+   height:40px;
+   background-color:gray;
+   clear:both;
+   padding:5px; 
+  }
+  #page-footer p
+  {
+   font-family:Arial Narrow;
+   color:white;
+   text-align:center;
+   font-size:0.75em;
+  }
+  #content p
+  {
+	position:absolute;
+	top:350px;
+	width:100%; 
+	font-size:18px;
+	letter-spacing:1px;
+	line-height:1.2em;
+	text-align:right;
+	color:black;
+	cursor:default;
+  }
+  #iriz
+  {
+   font-family:cursive;
+  }
+  #iriz_video
+  {
+	color:white;
+	
+  }
